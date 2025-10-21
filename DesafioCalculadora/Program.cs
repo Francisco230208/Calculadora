@@ -12,6 +12,12 @@ while (opcao != 0)
     Console.WriteLine("0 - Sair");
 
     opcao = int.Parse(Console.ReadLine());
+    if (opcao == 0)
+
+    {
+        Console.WriteLine("Saindo... Obrigado por usar a calculadora!");
+        break;
+    }
 
     Console.WriteLine("Digite o primerio numero");
     float numero1 = float.Parse(Console.ReadLine());
@@ -46,14 +52,9 @@ while (opcao != 0)
                 Console.WriteLine($"O resultado da divisão é {resultado}");
                 break;
         }
-        
             break;
 
-        default:
-            Console.WriteLine("Opção inválida! Tente novamente.");
-            break;
     }
-
 
 }
 
