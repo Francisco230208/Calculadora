@@ -1,0 +1,14 @@
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\bin\Debug\net9.0\DesafioCalculadora.exe
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\bin\Debug\net9.0\DesafioCalculadora.deps.json
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\bin\Debug\net9.0\DesafioCalculadora.runtimeconfig.json
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\bin\Debug\net9.0\DesafioCalculadora.dll
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\bin\Debug\net9.0\DesafioCalculadora.pdb
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.AssemblyInfoInputs.cache
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.AssemblyInfo.cs
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.dll
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\refint\DesafioCalculadora.dll
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.pdb
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\DesafioCalculadora.genruntimeconfig.cache
+C:\Users\44788197855\Desktop\Calculadora\DesafioCalculadora\obj\Debug\net9.0\ref\DesafioCalculadora.dll
