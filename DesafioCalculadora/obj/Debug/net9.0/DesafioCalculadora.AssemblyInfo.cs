@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioCalculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf8f251548786d2b7574f2c624a4a5480bf29cb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26df2a07029c55bcc5c376e2bba679d25aab36b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioCalculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioCalculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
